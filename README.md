@@ -9,8 +9,9 @@ Now I live in Berlin, [investing](https://scne.io) in cool companies and trying 
 - 💻 I’m currently working on [Chatterbug](https://chatterbug.com) and [SCNE](https://scne.io)
 - 🌱 I’m currently learning German and React
 - 🤔 I’m looking for people building great product in Berlin
-- 💬 Ask me about Berlin, Git, German or learning languages
+- 💬 Ask me about Berlin, Git, wine, German or learning languages
 - 📫 How to reach me: schacon@gmail.com or Twitter [@chacon](twitter.com/chacon)
+- ✍️ I blog on [Medium](https://medium.com/@chacon) sometimes
 
 ### 🌎 My Languages 🌎
 
