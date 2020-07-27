@@ -21,3 +21,5 @@ Now I live in Berlin, [investing](https://scne.io) in cool companies and trying 
 - 🇫🇷 French: A2
 - 🇲🇽 Spanish: A1
 - 🇯🇵 Japanese: ありがとうございます (that's it, that's all of my Japanese)
+
+[What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
