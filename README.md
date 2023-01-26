@@ -4,7 +4,7 @@
 
 Hey there, my name is Scott Chacon and I was one of the cofounders of [this here site](https://github.com) you're using right this very minute. I wrote the [Pro Git book](https://git-scm.com/book/en/v2) and the [Git website](https://git-scm.com/). 
 
-Now I live in Berlin, [investing](https://scne.io) in cool companies and trying to help the world [learn new languages](https://chatterbug.com).
+Now I live in Berlin, [investing](https://scne.io) in cool companies and building some new Git magic.
 
 - 💻 I’m currently working on [Chatterbug](https://chatterbug.com) and [SCNE](https://scne.io)
 - 🌱 I’m currently learning German and Hotwire
