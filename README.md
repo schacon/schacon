@@ -7,7 +7,7 @@ Hey there, my name is Scott Chacon and I was one of the cofounders of [this here
 Now I live in Berlin, [investing](https://scne.io) in cool companies and building some new Git magic.
 
 - 💻 I’m currently working on [GitButler](https://gitbutler.com) and [SCNE](https://scne.io)
-- 🌱 I’m currently learning German and Hotwire
+- 🌱 I’m currently learning German and Rust
 - 🤔 I’m looking for people building great product in Berlin
 - 💬 Ask me about Berlin, Git, wine, German or learning languages
 - 📫 How to reach me: schacon@gmail.com or Twitter [@chacon](twitter.com/chacon)
