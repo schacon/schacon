@@ -4,14 +4,12 @@
 
 Hey there, my name is Scott Chacon and I was one of the cofounders of [this here site](https://github.com) you're using right this very minute. I wrote the [Pro Git book](https://git-scm.com/book/en/v2) and the [Git website](https://git-scm.com/). 
 
-Now I live in Berlin, [investing](https://scne.io) in cool companies and building some new Git magic.
-
-- 💻 I’m currently working on [GitButler](https://gitbutler.com) and [SCNE](https://scne.io)
+- 💻 I’m currently working on [GitButler](https://gitbutler.com)
 - 🌱 I’m currently learning German and Rust
 - 🤔 I’m looking for people building great product in Berlin
 - 💬 Ask me about Berlin, Git, wine, German or learning languages
 - 📫 How to reach me: schacon@gmail.com or Twitter [@chacon](twitter.com/chacon)
-- ✍️ I blog on [Medium](https://medium.com/@chacon) sometimes
+- ✍️ I blog on [my website](https://scottchacon.com) sometimes
 
 ### 🌎 My Languages 🌎
 
@@ -22,4 +20,4 @@ Now I live in Berlin, [investing](https://scne.io) in cool companies and buildin
 - 🇲🇽 Spanish: A1
 - 🇯🇵 Japanese: ありがとうございます (that's it, that's all of my Japanese)
 
-[What does A1/B1/etc mean?](http://blog.chatterbug.com/en/how-to-talk-about-language-learning/)
+[What does A1/B1/etc mean?](https://scottchacon.com/2017/12/15/how-to-talk-about-language-learning/)
